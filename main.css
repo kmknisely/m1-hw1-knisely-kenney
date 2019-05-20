@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body{
+  text-align: center;
+}
+
+h1{
+  margin: 2%;
+  font-size: 3rem;
+}
+
+ul {
+  list-style: none;
+  margin: 2%;
+}
+
+li{
+  display: inline;
+  padding: 1%;
+}
+
+main {
+  margin: 3%;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p{
+  padding: 1%;
+}
